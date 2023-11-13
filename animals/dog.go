@@ -4,6 +4,6 @@ import "fmt"
 
 type Dog struct{}
 
-func (d Dog) Bark() {
+func (d Dog) Speak() {
 	fmt.Println("Bark")
 }
